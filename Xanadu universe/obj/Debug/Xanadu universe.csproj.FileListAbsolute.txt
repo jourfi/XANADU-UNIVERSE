@@ -1,0 +1,15 @@
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\bin\Debug\Xanadu universe.exe.config
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\bin\Debug\Xanadu universe.exe
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\bin\Debug\Xanadu universe.pdb
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu universe.csproj.AssemblyReference.cache
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu universe.csproj.SuggestedBindingRedirects.cache
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu_universe.Form1.resources
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu_universe.Properties.Resources.resources
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu universe.csproj.GenerateResource.cache
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu universe.csproj.CoreCompileInputs.cache
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu universe.exe
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu universe.pdb
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu_universe.Form2.resources
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu_universe.Form3.resources
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu_universe.Form4.resources
+C:\Users\X7\source\repos\Xanadu universe\Xanadu universe\obj\Debug\Xanadu_universe.Form5.resources
